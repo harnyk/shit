@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T12:13:33.342Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="t6w7beoE1oY4CrR_7-A8" version="16.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-18T12:14:26.609Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rY8ZecKhecAz3k_cQfF4" version="16.2.7" type="github" pages="2">
   <diagram id="JJzUDjLpjV40GuRbMEOA" name="BundledEnvs">
     <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YaXMoi9oQmUZpNsSKOkv" name="Page-2">
-    <mxGraphModel dx="2031" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nQKJUzm_zhicXm4yBogW-0" />
         <mxCell id="nQKJUzm_zhicXm4yBogW-1" parent="nQKJUzm_zhicXm4yBogW-0" />
@@ -389,6 +389,15 @@
             <mxPoint x="264.4200000000001" y="950" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XDYkYeXongtb9wKbkPZc-3" value="Javascript Bundle" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nQKJUzm_zhicXm4yBogW-1">
+          <mxGeometry x="280" y="840" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XDYkYeXongtb9wKbkPZc-4" value="Docker Image" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nQKJUzm_zhicXm4yBogW-1">
+          <mxGeometry x="280" y="890" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XDYkYeXongtb9wKbkPZc-5" value="Passed Automation" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nQKJUzm_zhicXm4yBogW-1">
+          <mxGeometry x="280" y="940" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
